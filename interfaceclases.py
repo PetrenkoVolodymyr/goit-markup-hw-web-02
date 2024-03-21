@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
+from prettytable import PrettyTable
 from termcolor import colored
-from prettytable import PrettyTable 
+# from prettytable import PrettyTable 
 
 class Bot(ABC):
     
